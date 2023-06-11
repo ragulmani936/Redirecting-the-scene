@@ -84,11 +84,11 @@ public class objectone1 : MonoBehaviour
 
 ## Output:
 
-![img1]()
+![img 1](https://github.com/ragulmani936/Redirecting-the-scene/assets/94881918/4a5657ab-5b18-48e2-b3af-4b1b62f18377)
 
-![img2]()
+![img 2](https://github.com/ragulmani936/Redirecting-the-scene/assets/94881918/e6f11739-6b8b-4e7a-906c-131a6225a0b8)
 
-![img3]()
+![img 3](https://github.com/ragulmani936/Redirecting-the-scene/assets/94881918/0620e4c0-8d0e-44df-b472-f7d7358085f2)
 
 ## Result:
 
